@@ -1,0 +1,15 @@
+[package]
+name = "lemon-ginger"
+description = "Ginger: run and render musical systems from editable declarations (daemon, compiler and CLI on scsynth)"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[[bin]]
+name = "ginger"
+path = "src/main.rs"
+
+[dependencies]
+ginger-core = { path = "../ginger-core" }
+ginger-sc = { path = "../ginger-sc" }
