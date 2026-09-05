@@ -1,0 +1,5 @@
+{
+  "schema": "ginger/synthdef-manifest/0",
+  "note": "Trusted SynthDef sources, compiled files and port manifests. Empty at scaffold; the first entries arrive with the declaration and compiler tasks.",
+  "synthdefs": []
+}

@@ -1,4 +1,4 @@
-# Ginger — conventions for agents (CLAUDE.md mirrors AGENTS.md; edit both)
+# Ginger — conventions for agents (AGENTS.md mirrors CLAUDE.md; edit both)
 
 Read `docs/design/ginger-v0-technical-design.md` before changing anything. It is the design of record for the
 first wave; the plan page it belongs to is linked at its top. Tasks live in the vault's beads store under the
