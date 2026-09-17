@@ -1,0 +1,9 @@
+{
+  "name": "barrier-and-readback",
+  "events": [
+    { "frame": 0, "node": "lead", "kind": "voice_start", "params": { "def": "sine", "freq": "440", "amp": "0.2" }, "wall_time": "2026-09-05T10:00:00.000000Z", "engine_node_id": 1001 },
+    { "frame": 960, "node": "lead", "kind": "control_set", "params": { "amp": "0.4" }, "wall_time": "2026-09-05T10:00:00.500000Z", "engine_node_id": 1001 },
+    { "frame": 1920, "node": "lead", "kind": "voice_release", "params": { "gate": "0" }, "wall_time": "2026-09-05T10:00:01.000000Z", "engine_node_id": 1001 }
+  ],
+  "state": { "section": "intro", "voices": "1" }
+}
